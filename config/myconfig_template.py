@@ -1,3 +1,4 @@
-# Update the API key and the API secret in this file and rename it to myconfig.py
-API_KEY = '<UPDATE_API_KEY>' 
-API_SECRET = '<UPDATE_API_SECRET>'
+# Exchange settings
+EXCHANGE_ID = '<EXCHANGE_ID>'
+API_KEY = '<API_KEY>' 
+API_SECRET = '<API_SECRET>'
